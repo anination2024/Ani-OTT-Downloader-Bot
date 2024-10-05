@@ -65,7 +65,7 @@ Note: DRM Protected Videos Can be extracted.
 
 ### For more Tricks:
 ---
-  - Join [Telegram Channel](https://telegram.me/AnnihilusOP) to get more Bots and their updates.
+  - Join [Telegram Channel](https://telegram.me/Ani_Nation_tm) to get more Bots and their updates.
 
 ##
 ### Installation
